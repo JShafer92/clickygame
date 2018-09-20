@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image":"https://i.pinimg.com/originals/da/59/a9/da59a9ac5f4a15824ccadacd3fcf67a1.png" ,
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://vignette.wikia.nocookie.net/blackclover/images/1/11/Sally_anime_profile.png/revision/latest?cb=20180402050606",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image":"https://vignette.wikia.nocookie.net/greatestanimebattles/images/f/f2/Noelle_Silva_anime_profile.png/revision/latest?cb=20180328122704" ,
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image":"https://qph.fs.quoracdn.net/main-qimg-efec8e2ae9aeb79648f179bb853158ab" ,
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image":"https://forum.talonro.com/uploads/monthly_2016_07/natsu_dragneel_by_esteban_93-d9f533m.thumb.png.9be6baca52e0ede1f689c9d54be67799.png" ,
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image":"https://qph.fs.quoracdn.net/main-qimg-90d44e6034067fdebfa1572914fefb3b",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image":"https://2static1.fjcdn.com/thumbnails/comments/I+think+your+getting+my+oc+confused+with+another+anime+_eef0e5c2cb10e7566186f00ca0b85708.png" ,
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://i.pinimg.com/originals/06/d3/03/06d303cdf9bdbc7531deefddc53f82a9.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://www.pngarts.com/files/1/Soul-Eater-PNG-Download-Image.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://qph.fs.quoracdn.net/main-qimg-83ad592a0b6d019e0b4362afa0739c71",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://pre00.deviantart.net/34c2/th/pre/f/2013/161/5/a/deadman_wonderland__shiro_vector_colored_by_yuukion-d68h8vz.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://png2.kisspng.com/20180501/waw/kisspng-naota-nandaba-mamimi-samejima-anime-character-clip-5ae8cffea2dc71.9899586915252070386671.png",
+    "clicked": false
+  }
+]
